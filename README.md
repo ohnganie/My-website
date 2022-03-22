@@ -7,7 +7,7 @@ In this exercise, using HTML ,CSS and Javascript, I created a restaurant website
 -CSS
  
  ### Screenshot
- ![Screenshot 2022-03-22 075427](https://user-images.githubusercontent.com/83227750/137463131-0507d4e6-5dbf-4f3a-b206-7b66e67fd613.jpg)
+ ![Screenshot 2022-03-22 075427](http://127.0.0.1:5500/index.html#)
 
  ### Getting Started
  Clone the repo on your system,find the index.html file and open in your browser.
